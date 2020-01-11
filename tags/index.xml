@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Thirsty Thursday Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 18:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 19:54:02 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,9 @@
     <item>
       <title>blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Thu, 31 Aug 2017 18:34:02 +0000</pubDate>
+      <pubDate>Wed, 30 Aug 2017 19:54:02 +0000</pubDate>
       
       <guid>/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>лорем</title>
-      <link>/tags/%D0%BB%D0%BE%D1%80%D0%B5%D0%BC/</link>
-      <pubDate>Wed, 30 Aug 2017 20:34:02 +0000</pubDate>
-      
-      <guid>/tags/%D0%BB%D0%BE%D1%80%D0%B5%D0%BC/</guid>
       <description></description>
     </item>
     
